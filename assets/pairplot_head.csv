@@ -1,0 +1,4 @@
+,distance,Precipitation,Temperature,exerc_type,training_session,Avg_heart_rate,Avg_speed
+245,2.61746,0.0,20.5,Running,1000,118.34,2.09
+313,0.84994,0.0,24.0,Running,2000,122.12,2.62
+367,0.84754,0.0,24.0,Running,3000,135.59,2.68
