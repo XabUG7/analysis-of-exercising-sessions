@@ -15,13 +15,13 @@ st.set_page_config(layout="wide", page_title="Exercising data analysis", page_ic
 
 
 st.write("#")
-st.markdown("""<h5 style='text-align: left; color: black;'><strong>Author: </strong><a href="https://cv-xabier-urruchua.streamlit.app/" target="_blank">Xabier Urruchua</a></h5>""", unsafe_allow_html=True)
-st.markdown("<h1 style='text-align: center; color: black;'>Graphical analysis of exercising sessions from Strava step by step</h1>", unsafe_allow_html=True)
+st.markdown("""<h5 style='text-align: left;'><strong>Author: </strong><a href="https://cv-xabier-urruchua.streamlit.app/" target="_blank">Xabier Urruchua</a></h5>""", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>Graphical analysis of exercising sessions from Strava step by step</h1>", unsafe_allow_html=True)
 st.markdown("""#""")
 
 # OVERVIEW
 st.subheader("Overview")
-st.markdown("""<h5 style='text-align: left; color: black;'>The purpose of this notebook is analysing the the exercising data of a client that wants to have several insights of his training. The data was taken by a variety of devices and was shared through the social sharing site named "Strava".</h5>""", unsafe_allow_html=True)
+st.markdown("""<h5 style='text-align: left;'>The purpose of this notebook is analysing the the exercising data of a client that wants to have several insights of his training. The data was taken by a variety of devices and was shared through the social sharing site named "Strava".</h5>""", unsafe_allow_html=True)
 
 
 
